@@ -6,4 +6,4 @@ func main() {
 	cmd.Execute()
 }
 
-// go run main.go upload -i LTAI5tJ88YYwTu8oQEyJHLqJ -e oss-cn-beijing-aliyuncs.com -f main.go
+// go run main.go upload -i LTAI -e oss-cn-beijing-aliyuncs.com -f main.go
